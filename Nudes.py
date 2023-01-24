@@ -97,7 +97,7 @@ NUDES_GIF = [
 "https://te.legra.ph/file/9434bab455cac1a0d8c70.mp4",
 "https://te.legra.ph/file/9434bab455cac1a0d8c70.mp4",
 "https://te.legra.ph/file/12b185cb776971ebd7d12.mp4",
-https://te.legra.ph/file/6a776551ed6ceffb82026.mp4",
+"https://te.legra.ph/file/6a776551ed6ceffb82026.mp4",
 "https://te.legra.ph/file/6d47ec45a550cb684eca0.mp4",
 "https://te.legra.ph/file/de14f21d4bc34896e0f3c.mp4",
 "https://te.legra.ph/file/f9bc24ead72f358f43c86.mp4",
