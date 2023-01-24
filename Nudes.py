@@ -63,5 +63,5 @@ app = FastAPI()
 
 @app.get("/nudes")
 def nude():
-	pic = random.choice(NUDE)
-	return {"url" : pic}
+    pic = random.choice(NUDE)
+    return {"url" : pic}
