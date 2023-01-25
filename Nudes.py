@@ -117,9 +117,11 @@ NUDES_GIF = ["https://te.legra.ph/file/f1b40793c472c5db8d87a.mp4",
 
 @app.get("/nudes")
 def pnude():
-    return "".join(random.choice(NUDE))
+    pic = random.choice(NUDE)
+    return {"url" : pic}
 
 @app.get("/ngif")
 def gnude():
-    return "".join(random.choice(NUDES_GIF))
+    GIF = random.choice(NUDES_GIF)
+    return {"url" : GIF}
 
